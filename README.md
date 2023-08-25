@@ -14,5 +14,6 @@ To utilize this application:
 
 # Copyright
 This visionary project was conceived by Dr. Fatma Ameen, a distinguished PhD holder from the Microbiology and Botany Department at Alexandria University, Egypt. For any inquiries, feel free to reach out via email: fameen@alexu.edu.eg.
+google scholar link : [https://scholar.google.com/FatmaAmin](https://scholar.google.com/citations?user=6oBdIsMAAAAJ&hl=en&oi=ao)
 
 Please note that I have solely implemented the concept using the Python programming language.
