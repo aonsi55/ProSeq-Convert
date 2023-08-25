@@ -8,8 +8,8 @@ Upon generating the desired output, simply click the "Copy" button to easily dup
 
 # Usage
 To utilize this application:
-1. Download the "Amino" folder.
-2. Within the folder, locate the executable Windows file named "Amino".
+1. Download the "Amino" folder. (Within the main repository ProSeq-Convert, press the green button labeled "<> code", and then select download as zip file).
+2. Unzip the file, and within the folder, locate the executable Windows file named "Amino".
 3. Run the "Amino" file to initiate the application.
 
 # Copyright
